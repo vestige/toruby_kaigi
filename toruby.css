@@ -1,0 +1,46 @@
+h2 {
+  background-image: url("http://farm7.static.flickr.com/6211/6264102276_545a7c5af9_z.jpg");
+  background-repeat: no-repeat;
+  height: 400px;
+  color: white;
+}
+span.official_tag {
+  font-size: 16px;
+  color: yellow;
+}
+
+a:link {
+  color: #ff6633;
+} 
+
+h3 {
+  margin-top: 16px;
+  font-size: 24px;
+  padding-left: 10px;
+  -webkit-border-radius: 5px;
+  border-top: 2px solid #080;
+  border-left: 2px solid #080;
+  color: #060;
+}
+
+h4 {
+  padding-left: 8px;
+  color: #fff;
+  background-color: #080;
+  -webkit-border-radius: 5px;
+}
+
+div.event_desc h4 {
+  margin-top: 16px;
+}
+
+h5 {
+  margin-top: 16px;
+}
+
+ul ul {
+  list-style-type: none;
+}
+
+
+
